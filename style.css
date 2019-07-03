@@ -36,4 +36,5 @@ body {
 
 #details > div {
   float: left;
+  width: 25%;
 }
