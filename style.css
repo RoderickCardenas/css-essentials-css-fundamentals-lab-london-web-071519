@@ -6,6 +6,11 @@ header {
   text-align: center;
 }
 
+figcaption {
+  text-align: center;
+  font-size: 22px;
+}
+
 a {
   padding-left: 10px;
   padding-right: 10px;
