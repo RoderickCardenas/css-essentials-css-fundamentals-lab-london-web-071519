@@ -29,3 +29,11 @@ body {
   height: 100%;
   margin: 0;
 }
+
+#details {
+  display: block;
+}
+
+#details > div {
+  float: left;
+}
